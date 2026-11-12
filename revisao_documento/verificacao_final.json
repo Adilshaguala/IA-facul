@@ -1,0 +1,11 @@
+{
+  "titulos_preservados": 39,
+  "tabelas_preservadas": 5,
+  "figuras_incorporadas": 7,
+  "indice_actualizado_no_word": true,
+  "capa_e_folha_de_rosto_preservadas": true,
+  "ficheiros_protegidos_intactos": true,
+  "documento_final_sha256": "5fb87864691230311de686fd18fa6585b986e689e6fa62aa57157d1c5bf713a6",
+  "exportacao_pdf": "Não concluída: ExportAsFixedFormat e SaveAs2 bloquearam. As instâncias iniciadas para a revisão foram encerradas após guardar o DOCX.",
+  "verificacao_visual": "Gráficos inspeccionados como imagens; paginação final não verificada visualmente em PDF."
+}

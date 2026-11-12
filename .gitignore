@@ -1,0 +1,34 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Cache e bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
+
+# Ficheiros de ambiente / configuração local
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ficheiros gerados pelo script (resultados de cada execução)
+resultados_grupo9.csv
+comparacao_modelos.png
+artefactos/
+.tmp_pdf_tools/
+
+# Ficheiros de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ficheiros de IDEs/editores
+.vscode/
+.idea/

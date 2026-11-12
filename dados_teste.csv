@@ -1,0 +1,106 @@
+id,curso,ano,regime,media_anterior,disciplinas_em_atraso,horas_trabalho_semanal,distancia_campus_km,tem_computador,acesso_internet_casa,pedidos_anteriores,necessidade_avaliada,apoio_concedido
+P0331,Ensino de Fisica,1,laboral,14.3,0,2,2.1,1,1,3,1.3,0
+P0292,Eng. Civil,3,pos_laboral,11.3,0,46,9.7,1,1,0,19.3,0
+P0347,Eng. Civil,3,laboral,14.3,1,1,2.8,1,1,1,5.2,1
+P0361,Eng. Informatica,2,pos_laboral,11.8,5,50,6.9,0,0,0,77.0,1
+P0103,Gestao Ambiental,3,laboral,12.5,0,2,3.1,1,1,0,5.9,0
+P0227,Eng. Civil,1,pos_laboral,11.7,1,47,7.7,1,1,0,14.7,0
+P0127,Gestao Ambiental,4,pos_laboral,10.9,0,41,8.1,1,1,0,15.3,0
+P0268,Eng. Civil,1,pos_laboral,8.9,4,4,28.9,1,0,1,71.2,0
+P0359,Ensino de Fisica,4,pos_laboral,9.6,4,11,43.3,0,0,3,100.0,1
+P0375,Gestao Ambiental,1,laboral,14.0,0,0,2.7,1,1,1,0.0,0
+P0335,Eng. Electronica,2,laboral,12.4,0,1,1.6,1,1,1,5.1,0
+P0152,Ensino de Fisica,4,pos_laboral,11.6,2,49,11.8,1,1,0,24.7,0
+P0206,Eng. Informatica,2,laboral,14.4,3,2,2.8,1,1,0,13.0,1
+P0276,Eng. Informatica,2,laboral,10.0,4,4,32.3,0,0,0,100.0,1
+P0376,Ensino de Fisica,3,laboral,9.8,3,10,32.7,0,0,0,100.0,1
+P0071,Ensino de Matematica,1,laboral,13.4,0,3,1.7,1,1,3,0.0,0
+P0385,Eng. Informatica,2,pos_laboral,10.0,4,12,30.0,1,1,0,54.4,1
+P0262,Gestao Ambiental,2,pos_laboral,10.5,2,50,10.3,1,1,1,26.7,1
+P0179,Ensino de Fisica,4,laboral,13.0,0,3,1.5,1,1,0,4.0,0
+P0025,Gestao Ambiental,1,laboral,13.7,1,3,2.1,1,1,0,2.4,1
+P0172,Eng. Electronica,2,pos_laboral,13.8,1,47,10.9,1,0,0,40.5,1
+P0190,Ensino de Matematica,3,laboral,13.3,0,3,2.2,1,1,1,0.2,0
+P0407,Eng. Informatica,1,laboral,14.3,0,0,0.9,1,1,1,0.5,1
+P0401,Eng. Electronica,2,laboral,11.0,4,10,41.1,0,0,1,100.0,1
+P0006,Ensino de Fisica,4,pos_laboral,12.2,5,4,46.5,0,0,0,100.0,1
+P0389,Ensino de Fisica,2,laboral,9.2,2,9,35.1,0,0,0,99.9,1
+P0298,Eng. Informatica,1,laboral,14.0,0,1,1.5,1,1,0,1.5,1
+P0364,Eng. Informatica,1,laboral,13.7,0,3,2.2,1,1,2,1.1,0
+P0279,Eng. Civil,1,pos_laboral,9.9,3,6,32.4,0,1,2,75.5,0
+P0012,Eng. Electronica,2,pos_laboral,10.4,1,46,6.8,1,1,1,13.2,0
+P0023,Gestao Ambiental,3,pos_laboral,9.3,5,11,29.6,0,0,0,100.0,1
+P0396,Eng. Civil,2,pos_laboral,12.1,3,44,12.0,1,1,2,22.8,0
+P0403,Eng. Electronica,3,laboral,13.5,1,1,2.1,1,1,0,7.3,0
+P0102,Eng. Informatica,1,laboral,12.6,0,0,2.8,1,0,0,20.7,0
+P0311,Eng. Informatica,4,laboral,13.5,1,1,3.0,1,0,2,21.3,0
+P0193,Eng. Electronica,1,pos_laboral,11.2,4,4,47.9,1,0,0,76.1,1
+P0415,Eng. Informatica,3,pos_laboral,12.6,1,42,7.4,1,1,0,21.5,0
+P0345,Eng. Informatica,4,laboral,13.5,0,1,1.4,1,1,1,3.8,0
+P0318,Ensino de Matematica,3,pos_laboral,11.4,1,49,7.4,1,1,1,16.8,0
+P0380,Ensino de Fisica,2,laboral,14.1,1,3,3.4,1,1,1,5.4,1
+P0045,Eng. Electronica,3,pos_laboral,12.4,3,43,10.2,1,1,1,21.6,0
+P0167,Eng. Electronica,1,laboral,14.4,0,0,1.4,1,1,0,0.0,0
+P0329,Eng. Civil,2,pos_laboral,12.0,1,44,8.5,1,0,1,37.6,0
+P0203,Eng. Informatica,3,pos_laboral,14.3,3,40,11.3,1,1,2,25.8,1
+P0087,Ensino de Matematica,4,pos_laboral,11.2,5,11,35.8,1,0,2,79.4,0
+P0160,Gestao Ambiental,2,pos_laboral,12.7,0,46,7.8,1,1,3,8.7,0
+P0263,Eng. Electronica,3,laboral,11.5,0,1,2.6,1,1,1,6.4,0
+P0410,Gestao Ambiental,2,pos_laboral,10.7,3,50,10.3,1,1,0,23.4,1
+P0129,Eng. Civil,1,pos_laboral,11.3,2,41,7.5,1,1,0,16.0,0
+P0348,Gestao Ambiental,1,pos_laboral,12.8,2,51,8.6,1,1,2,19.7,1
+P0018,Ensino de Fisica,2,laboral,10.1,3,5,39.5,0,0,0,95.5,1
+P0406,Eng. Informatica,1,laboral,11.8,0,2,0.9,1,1,0,0.0,0
+P0093,Eng. Civil,2,laboral,11.2,1,2,1.9,1,1,0,15.4,0
+P0259,Eng. Civil,1,pos_laboral,11.7,3,51,6.9,0,0,2,70.5,1
+P0216,Gestao Ambiental,2,pos_laboral,8.0,5,9,30.4,0,0,1,100.0,1
+P0267,Eng. Informatica,1,laboral,9.6,5,13,34.0,0,1,1,85.0,1
+P0340,Eng. Informatica,2,laboral,13.1,0,2,3.0,1,1,3,3.4,0
+P0133,Eng. Informatica,2,laboral,14.0,0,2,2.7,1,0,1,20.8,0
+P0170,Ensino de Matematica,3,laboral,13.6,0,2,3.0,1,1,1,0.0,0
+P0171,Ensino de Fisica,4,laboral,12.6,1,0,1.7,0,0,1,51.4,0
+P0111,Eng. Informatica,2,laboral,13.3,1,1,2.2,1,1,1,7.0,0
+P0022,Eng. Informatica,1,laboral,12.7,0,0,3.4,1,1,1,8.4,0
+P0041,Ensino de Fisica,3,laboral,15.0,1,0,2.1,1,1,0,0.3,0
+P0035,Ensino de Matematica,4,laboral,12.9,2,3,1.7,1,1,1,14.4,0
+P0297,Eng. Informatica,2,laboral,14.3,0,1,1.3,1,1,0,0.0,1
+P0368,Eng. Civil,4,pos_laboral,10.0,2,13,38.9,0,0,0,99.0,1
+P0336,Ensino de Fisica,2,laboral,11.1,4,8,39.6,0,0,0,98.6,1
+P0177,Ensino de Matematica,4,pos_laboral,13.7,3,51,10.6,1,1,0,25.4,0
+P0236,Eng. Civil,1,laboral,11.9,0,2,1.8,1,1,3,2.0,0
+P0354,Ensino de Fisica,2,laboral,14.8,1,1,1.8,1,1,1,0.0,0
+P0353,Ensino de Matematica,1,laboral,13.8,0,1,2.6,1,1,1,5.2,0
+P0372,Ensino de Matematica,4,laboral,15.7,0,0,2.0,1,1,0,1.5,1
+P0300,Eng. Informatica,1,laboral,14.1,0,3,1.6,1,1,0,0.0,1
+P0146,Gestao Ambiental,3,laboral,10.5,3,12,34.5,0,0,0,100.0,1
+P0392,Eng. Civil,1,laboral,12.6,1,1,2.3,1,1,0,4.8,1
+P0420,Ensino de Matematica,1,pos_laboral,11.3,2,45,9.9,1,1,2,25.5,0
+P0411,Gestao Ambiental,2,laboral,13.4,2,3,2.1,0,0,1,53.8,1
+P0325,Ensino de Matematica,3,laboral,10.0,5,9,35.9,0,0,0,100.0,1
+P0283,Ensino de Matematica,3,pos_laboral,13.2,1,48,8.2,0,0,1,63.4,0
+P0244,Gestao Ambiental,2,laboral,11.8,4,6,45.4,0,0,2,100.0,1
+P0083,Gestao Ambiental,1,laboral,11.9,4,8,43.3,0,0,0,100.0,1
+P0254,Eng. Electronica,3,pos_laboral,10.6,4,12,38.4,0,0,0,100.0,1
+P0002,Ensino de Fisica,4,laboral,14.4,1,2,2.6,1,1,3,7.0,0
+P0204,Eng. Informatica,1,laboral,14.3,1,2,2.9,1,1,0,0.0,0
+P0125,Ensino de Fisica,3,laboral,9.9,5,10,47.4,0,0,0,100.0,1
+P0219,Gestao Ambiental,1,laboral,14.3,3,1,1.1,1,1,0,18.9,1
+P0099,Eng. Informatica,4,pos_laboral,11.0,2,51,11.3,1,1,0,25.2,0
+P0116,Ensino de Fisica,1,laboral,13.3,1,0,1.9,1,1,0,8.1,1
+P0417,Eng. Electronica,2,pos_laboral,12.9,1,45,6.1,1,1,0,9.5,1
+P0303,Eng. Civil,1,laboral,13.0,2,10,43.2,0,0,1,97.0,0
+P0352,Eng. Civil,1,laboral,13.0,1,2,2.4,1,1,0,3.7,0
+P0344,Eng. Electronica,4,laboral,12.8,1,3,2.8,1,1,2,1.4,0
+P0027,Eng. Electronica,3,laboral,13.1,0,3,1.3,1,1,0,7.7,0
+P0091,Ensino de Matematica,3,laboral,9.9,3,10,33.9,0,0,0,100.0,1
+P0232,Ensino de Matematica,1,laboral,13.8,2,3,3.5,1,1,0,11.5,1
+P0230,Gestao Ambiental,4,pos_laboral,8.7,3,9,29.8,1,0,0,76.7,0
+P0088,Ensino de Fisica,1,laboral,13.5,0,0,0.7,1,1,0,0.0,1
+P0414,Ensino de Matematica,3,laboral,11.0,4,9,37.8,0,0,3,100.0,1
+P0386,Eng. Electronica,3,pos_laboral,13.0,1,51,7.8,1,0,1,37.8,0
+P0365,Eng. Civil,1,laboral,14.4,1,0,2.2,1,1,1,5.5,0
+P0106,Eng. Informatica,2,pos_laboral,12.2,0,46,8.2,1,1,1,11.6,0
+P0330,Eng. Electronica,2,pos_laboral,11.1,3,42,10.7,1,1,0,28.8,0
+P0224,Eng. Civil,1,laboral,14.3,0,2,1.0,1,1,2,0.0,0
+P0153,Ensino de Fisica,1,pos_laboral,12.9,2,40,9.0,1,1,0,18.5,0
+P0095,Gestao Ambiental,3,pos_laboral,11.2,0,50,7.5,1,1,1,15.7,0
