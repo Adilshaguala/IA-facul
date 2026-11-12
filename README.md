@@ -79,3 +79,4 @@ Os testes usam pastas temporárias para não adicionar exemplos ao histórico de
 ## Enquadramento académico
 
 O conjunto de referência é uma parte do trabalho: os documentos também exigem resultados do problema próprio do grupo. O artigo e os slides devem justificar o método, discutir os resultados e declarar o uso de ferramentas de IA.
+=======
